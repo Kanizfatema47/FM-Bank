@@ -1,0 +1,71 @@
+body{
+    padding: 100px;
+}
+.login-area h1{
+    padding: 30px 0 30px 0;
+    color: rgb(22, 22, 73);
+    font-size: 42px;
+    font-weight: 700;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+}
+.submit-area{
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 8px 8px 12px 12px gray;
+}
+.submit-area h2{
+    padding: 20px 0 20px 0;
+    text-transform: uppercase;
+    font-size: 35px;
+    font-weight: bold;
+    color: red;
+    text-transform: uppercase;
+}
+.form-group{
+    margin-bottom: 15px;
+}
+#transection-area{
+    display: none;
+}
+
+.status{
+    margin: 0 60px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.deposite{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: orange;
+}
+.balance{
+    background-color: lightsalmon;
+}
+.last-portion{
+    margin-top: 60px;
+}
+.area{
+    margin: 0 50px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 8px 8px 12px 12px gray;
+   
+}
+.area h2{
+    padding-bottom: 20px;
+    text-transform: uppercase;
+}
+.area .btn{
+    margin-top: 15px;
+    text-transform: uppercase;
+    background: rgb(38 31 146);
+}
+  
+.first{
+        background: slateblue;
+    }
+.second{
+    background: lightsalmon;
+}
